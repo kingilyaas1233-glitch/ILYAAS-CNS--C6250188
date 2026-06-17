@@ -1,0 +1,17 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#c2ffc4;font-family:Times New Roman;}
+.wrapper{width:1050px;margin:20px auto;}
+header{height:110px;background:#888888;}
+header h1{text-align:center;color:white;font-size:44px;padding-top:22px;text-shadow:3px 3px 4px black;}
+.body{display:flex;}
+aside a{display:block;font-size:22px;color:blue;text-decoration:none;margin-bottom:8px;}
+main{flex:1;background:#ffc974;padding:20px;}
+.top-box{height:95px;background:url("Yuuuuu.jpg");background-size:cover;border:7px dashed #ffffb9;display:flex;align-items:center;justify-content:center;}
+.top-box h2{color:white;font-size:34px;text-shadow:2px 2px 3px black;}
+.article{margin-top:30px;display:flex;}
+.article img{width:160px;height:190px;margin-right:18px;}
+.article p{font-size:20px;line-height:1.4;color:#472a49;}
+.title{margin-top:15px;font-size:26px;font-weight:bold;color:#43204a;padding-bottom:8px;box-shadow:0 8px 7px -5px black;}
+ul{margin-top:25px;margin-left:60px;}
+ul li{font-size:20px;margin-bottom:10px;color:#4b2146;}
+footer{height:35px;background:#888888;color:white;text-align:center;line-height:35px;font-style:italic;}
